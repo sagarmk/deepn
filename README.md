@@ -1,4 +1,4 @@
-# Deep Learning Visualization
+# Deep NeuralNetwork from scratch
 
 This is a PyQt5-based desktop application that allows you to visualize the training and prediction of a simple neural network model.
 
