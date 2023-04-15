@@ -10,6 +10,7 @@ This is a PyQt5-based desktop application that allows you to visualize the train
 - Matplotlib
 
 ## Installation
+![alt text](/images/deepqn.png "title")
 
 1. Clone the repository to your local machine.
 2. Install the required packages by running `pip install -r requirements.txt` in the project directory.
