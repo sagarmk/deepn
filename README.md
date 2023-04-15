@@ -4,10 +4,7 @@ This is a PyQt5-based desktop application that allows you to visualize the train
 
 ## Requirements
 
-- Python 3.x
-- PyQt5
-- NumPy
-- Matplotlib
+ pip install -r requirements.txt
 
 ## Installation
 ![alt text](/images/deepqn.png "title")
